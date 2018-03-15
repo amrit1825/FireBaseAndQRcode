@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InventoryManagement</string>
+    <string name="emailHint">Enter your email</string>
+    <string name="passwordHint">Enter your password</string>
+    <string name="buttonRegister">SignUp</string>
+    <string name="alreadyRegister">Already a member! Login here.</string>
+    <string name="registerHeading">User Registration.</string>
+    <string name="loginEmail">Enter your email</string>
+    <string name="loginPassword">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="signUp">Not have an account? SignUp Here</string>
+    <string name="saveDevice">Save a device into inventory</string>
+    <string name="userLogin">User Login</string>
+    <string name="ownerName">Enter the Owner name</string>
+    <string name="imei">Enter the IMEI</string>
+    <string name="manufacturer">Enter the Manufacturer</string>
+    <string name="addDevice">Add device</string>
+    <string name="menu">Back to menu</string>
+    <string name="newName">Enter new Name</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>

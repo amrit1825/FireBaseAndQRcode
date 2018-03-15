@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeviceSecure</string>
+    <string name="owner">Enter the Owner Name</string>
+    <string name="button_Text">Get Details</string>
+</resources>
